@@ -1,2 +1,4 @@
-pyaes==1.6.1
-pysocks==1.7.1
+https://github.com/pyrogram/pyrogram/archive/master.zip
+tgcrypto
+fastapi
+uvicorn
